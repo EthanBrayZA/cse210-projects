@@ -16,7 +16,7 @@ public class GoalManager
         while (!exitProgram)
         {
             Console.WriteLine("----- ETERNAL QUEST -----");
-            Console.WriteLine("1. Display Ppints");
+            Console.WriteLine("1. Display Points");
             Console.WriteLine("2. List Goals");
             Console.WriteLine("3. Create Goal");
             Console.WriteLine("4. Record Event");
